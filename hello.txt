@@ -1,2 +1,3 @@
 Text File
 another file
+new line
